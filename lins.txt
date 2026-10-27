@@ -1,0 +1,11 @@
+<article><b>1. Flex Container</b><br>使用 flexbox 排版的區域稱為 flex 容器。要建立一個 flex 容器，請將該區域的 display 屬性設定為 flex。當我們這麼做時，該容器的直接子元素就會變成 flex 項目。</article>
+
+<article><b>2. Flex Item</b><br>所有項目在Flex Container都會排成一列，並以其內容的大小作為它們在主軸上的尺寸。如果項目數量多到無法容納在容器中，它們不會換行，而是會溢出。如果某些項目比其他項目高，所有項目都會沿著交錯軸的整個長度伸展。</article>
+
+<article><b>3. Flex Container中的設定</b><br>justify-content（主軸排列）、<br>align-items（交叉軸的項目對齊）、<br>align-content（多列的排列）</article>
+
+<article><b>4. Flex Container中的設定</b><br>在 Flexbox 中，justify-content、align-items、align-content 這三個屬性全部設定在 Flex Container（父容器）上，不是設定在 Flex Item 上。</article>
+
+<article><b>5. flex-wrap的重要條件</b><br>在 Flexbox 中，align-content 對單列 Flex Container（例如 flex-wrap: nowrap）不會產生作用。通常需要允許換行，並且有多列與可分配的交叉軸空間，才能看出不同排列效果。</article>
+
+<article><b>6. flex-wrap的重要條件</b><br>在 Flexbox 中，align-content 對單列 Flex Container（例如 flex-wrap: nowrap）不會產生作用。通常需要允許換行，並且有多列與可分配的交叉軸空間，才能看出不同排列效果。</article>
