@@ -52,8 +52,4 @@ article{
     section{
     flex-direction: column;
     }
-
-    article{
-    flex: 0 0 100%;
-    }
 }
